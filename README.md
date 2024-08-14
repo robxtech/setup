@@ -11,9 +11,11 @@ Fira Code - [https://fonts.google.com/specimen/Fira+Code]([url](https://fonts.go
     "editor.fontFamily": "FiraCode Nerd Font Mono",
     "editor.fontLigatures": true,
 }
+```
+
 Theme: Cobalt_RC
 Font: FiraCode Nerd Font Mono
-```
+
 ## Terminal
 - zsh autosuggestions
 - zsh syntaxhighlighting
