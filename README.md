@@ -45,6 +45,8 @@ Extensions:
 
 ## Credentials
 - Bitwarden (Chrome extension on each Chrome profile + App on iOS and Mac)
+
+
   <img width="395" alt="image" src="https://github.com/user-attachments/assets/22bd3797-ab87-45a2-bf24-9142a4734756">
 
 ## Business
